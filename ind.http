@@ -1,0 +1,4 @@
+# post http://localhost:4000/login/
+# Content-Type: application/json
+
+# {"userName": "poorna", "userEmail": "poorna@gmais.com", "userPassword": "12", "cPassword": "12"}
